@@ -16,12 +16,14 @@ Hola mi nombre es Cristhian Camilo Alvarado Mejia, soy desarrollador de software
   <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" witdh="40" height="40">&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" witdh="40" height="40">&nbsp;
 </div>
-<!--
-**CristhianCAM/CristhianCAM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ### REDES SOCIALES
 <a href="https://www.linkedin.com/in/cristhian-camilo-alvarado-mejia-2b955021a/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stiven jojoa lozano" height="30" width="40" /></a>
+
+<!--
+**CristhianCAM/CristhianCAM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
