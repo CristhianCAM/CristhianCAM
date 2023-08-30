@@ -19,6 +19,10 @@ Hola mi nombre es Cristhian Camilo Alvarado Mejia, soy desarrollador de software
 <!--
 **CristhianCAM/CristhianCAM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+### REDES SOCIALES
+<a href="https://www.linkedin.com/in/cristhian-camilo-alvarado-mejia-2b955021a/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stiven jojoa lozano" height="30" width="40" /></a>
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
